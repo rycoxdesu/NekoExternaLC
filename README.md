@@ -18,9 +18,8 @@ This application allows you to:
 - ✅ Edit fast variables in real-time without restarting Roblox
 - ✅ Automatically detects all running Roblox instances
 - ✅ Applies changes to both existing and new instances
-- ✅ Supports various types of fast variables (boolean, integer, string, log)
 - ✅ No limitations when editing fast variables
-- ✅ Desktop App with modern GUI (Electron)
+- ✅ Desktop App with modern GUI
 - ✅ Easy-to-use interface
 
 ## ⚠️ Important Warning
