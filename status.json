@@ -1,5 +1,5 @@
 {
   "enabled": true,
   "min_version": "1.0.7",
-  "announcement": "⚠️ False Positive Warning: This application may be flagged by some antivirus software as a false positive. This happens because the application uses Windows memory manipulation APIs for legitimate Roblox game configuration purposes. The application is safe, open source, and does NOT perform any malicious activities. See SECURITY.md for more information."
+  "announcement": ""
 }
